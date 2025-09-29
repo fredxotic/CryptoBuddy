@@ -1,7 +1,7 @@
 # CryptoBuddy Pro+ v1 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Version](https://img.shields.io/badge/Version-3.0-purple.svg)
+![Version](https://img.shields.io/badge/Version-1.0-purple.svg)
 
 > **Your based crypto companion with real-time data, sustainability analysis, and meme-loving personality!** 💎🙌
 
