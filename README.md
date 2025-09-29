@@ -1,4 +1,4 @@
-# CryptoBuddy Pro+ v3 🚀
+# CryptoBuddy Pro+ v1 🚀
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Version](https://img.shields.io/badge/Version-3.0-purple.svg)
@@ -49,26 +49,26 @@ CryptoBuddy Pro+ is a sophisticated cryptocurrency advisor chatbot that combines
 pip install requests tqdm textblob
 
 # Run the bot
-python cryptobuddy_pro_plus_v3.py --interactive
+python cryptobuddy_pro_plus_v1.py --interactive
 ```
 
 ### Basic Usage
 
 ```bash
 # Interactive mode (recommended)
-python cryptobuddy_pro_plus_v3.py --interactive
+python cryptobuddy_pro_plus_v1.py --interactive
 
 # Get profitability recommendations
-python cryptobuddy_pro_plus_v3.py --profit
+python cryptobuddy_pro_plus_v1.py --profit
 
 # Find sustainable coins
-python cryptobuddy_pro_plus_v3.py --sustainable
+python cryptobuddy_pro_plus_v1.py --sustainable
 
 # Compare two coins
-python cryptobuddy_pro_plus_v3.py --compare BTC ETH
+python cryptobuddy_pro_plus_v1.py --compare BTC ETH
 
 # Get coin summary
-python cryptobuddy_pro_plus_v3.py --summary bitcoin
+python cryptobuddy_pro_plus_v1.py --summary bitcoin
 ```
 
 ![Profitability Analysis](./screenshots/pic2.png)
